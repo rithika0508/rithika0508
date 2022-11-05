@@ -26,8 +26,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rithika05081&theme=dark)](https://git.io/streak-stats)
 <br>
 <br>
 
