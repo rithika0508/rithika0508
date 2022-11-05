@@ -26,7 +26,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=rithika0508&theme=radical&hide_border=true&border_radius=4.5&locale=en&date_format=&properties=background" alt="nishith-02" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rithika0508&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <br>
 <br>
 
