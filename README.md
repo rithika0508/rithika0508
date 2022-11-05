@@ -1,7 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hey , I'm Rithika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**rithika0508/rithika0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey , I'm Rithika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Here are some ideas to get you started:
 
