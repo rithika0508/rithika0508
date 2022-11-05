@@ -26,9 +26,10 @@
 <br>
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rithika05081&theme=dark)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=rithika0508&theme=radical&hide_border=true&border_radius=4.5&locale=en&date_format=&properties=background" alt="nishith-02" /></p>
 <br>
 <br>
+
 
 
 ## 👀 My Competitive Programming Profiles
