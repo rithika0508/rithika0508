@@ -2,9 +2,6 @@
 
 
 
-<br>
-
-
 
 ## :sassy_man:  About me
 - :school: I am a `Student` pursuing btech in `Srm Institute of Science and Technology`
