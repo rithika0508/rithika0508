@@ -7,9 +7,9 @@
 - :school: I am a `Student` pursuing btech in `Srm Institute of Science and Technology`
 - :computer: I am a `Computer Science` Student specializing in Artificial Intelligence and Machine learning.
 - :student: I’m currently learning: `DSA` and `Machine Learning`.
-- :thinking: I’m currently open for: new `opportunity`
+- :thinking: I’m currently open for: new `opportunities`
 - 💬 Ask me about **MERN**
-- :nerd_face: Always `learning new things`
+- :nerd_face: `learning new things`
 - 📫 Reach me at **rithikavijaykumar@gmail.com**
 
 <br>
