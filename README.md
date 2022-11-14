@@ -26,7 +26,7 @@
 <p align="center">
 	<a href="rithikavijaykumar@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/rithika0508"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://www.linkedin.com/in/rithika-varaganti-0063251b8/?originalSubdomain=in" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/rithika-varaganti-0063251b8/?originalSubdomain=in"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
