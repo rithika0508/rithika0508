@@ -6,7 +6,7 @@
 ## :sassy_man:  About me
 - :school: I am a `Student` pursuing btech in `Srm Institute of Science and Technology`
 - :computer: I am a `Computer Science` Student specializing in Artificial Intelligence and Machine learning.
-- :student: I’m currently learning: `DSA` and `Machine Learning`.
+- :student: I’m currently learning: `DSA`.
 - :thinking: I’m currently open for: new `opportunities`
 - 💬 Ask me about **MERN**
 - :nerd_face: `learning new things`
@@ -88,11 +88,4 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/rithika0508"><img alt="rithika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rithika0508&custom_title=rithika0508's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
 
